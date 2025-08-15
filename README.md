@@ -8,7 +8,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Tega 
 
-![dino](https://github.com/user-attachments/assets/ec5bde8a-76f6-4fc4-9494-c1c408cfff13)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/huytega)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huy-vũ-2b8a0337a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=61578278228242)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/huytega/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel//@HuyTega)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tega.com.vn/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/huyvutega)    
 
@@ -37,27 +37,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 💻 Trailer Game:
-
-
-
-https://github.com/user-attachments/assets/0639c402-4efa-4be4-b869-14b812b5e826
-
-
-
-https://github.com/user-attachments/assets/48146424-8f9a-4c4d-8862-db50fef822a7
-
-
-
-https://github.com/user-attachments/assets/ab6cf1f2-5580-480a-82d9-71bcb028e939
-
-
-
-
-https://github.com/user-attachments/assets/552fe199-0e42-41a3-a57b-bf912a96c779
-
-
-
-https://github.com/user-attachments/assets/4a314964-e1a5-4836-93f4-bb6585d74074
 
