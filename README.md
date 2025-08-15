@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Vũ+Nguyễn+Quốc+Huy;Website+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
+
 ### Hi there 👋, Vũ Nguyễn Quốc Huy
 #### I am Design and Developer Website 
 ![I am Design and Developer Website ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
