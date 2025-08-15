@@ -54,6 +54,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img alt="Coder GIF" height=1024 width=1024 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 <br>
 
-<img width="250" height="250" alt="tega_website_QRcode" src="https://github.com/user-attachments/assets/ab8459f2-efbb-46af-80f8-63461aef2995" />
-
+<img width="250" height="250" alt="tega" src="https://github.com/user-attachments/assets/e0e1a4b0-738e-488b-9391-4dcbed34a67f" />
 <img width="250" height="250" alt="qrcode_238902821_e0e5cf797173165c3f0e7e1a4b2a3373" src="https://github.com/user-attachments/assets/2cebc642-00dd-4157-bf3f-706643cc29e2" />
+<img width="250" height="250" alt="slotgen" src="https://github.com/user-attachments/assets/7cec4a4a-4a8a-4cb9-ad4d-7bb226468ad5" />
+<img width="250" height="250" alt="github" src="https://github.com/user-attachments/assets/b84d07be-834d-44ec-90bf-a241744ef3fd" />
