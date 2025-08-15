@@ -1,7 +1,6 @@
 ### Hi there 👋, Vũ Nguyễn Quốc Huy
 #### I am Design and Developer Website 
 ![I am Design and Developer Website ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I’m Huy — a creator who codes, designs, and experiments to bring interactive games and engaging experiences to life.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
@@ -39,11 +38,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Trailer Game:
-
-
-
-
-https://github.com/user-attachments/assets/c3d698f3-e9da-43fc-8cb5-ed8acd86c312
 
 
 
