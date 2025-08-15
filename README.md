@@ -1,6 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Vũ+Nguyễn+Quốc+Huy;Website+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=600&color=00C2FF&lines=Hi+👋+I'm+Vũ+Nguyễn+Quốc+Huy;💻+Website+Developer;🚀+Always+Learning!" style="animation: pulse 1.5s infinite;">
 </h1>
+
+<p align="center">
+  <a href="https://tega.com.vn"><img src="https://img.shields.io/badge/-🌐%20TEGA.com.vn-blue?style=for-the-badge"></a>
+  <a href="https://slotgen.com/en"><img src="https://img.shields.io/badge/-🎮%20Slotgen.com-orange?style=for-the-badge"></a>
+  <a href="mailto:vunguyenquochuy200000@gmail.com"><img src="https://img.shields.io/badge/-📧%20Contact%20Me-red?style=for-the-badge"></a>
+</p>
 
 ### Hi there 👋, Vũ Nguyễn Quốc Huy
 #### I am Design and Developer Website 
