@@ -32,6 +32,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="350" height="250" />
 </div>
 
+<img src="https://raw.githubusercontent.com/CyberDex/CyberDex/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Huytega&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -66,4 +67,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
   <img width="200" height="200" alt="slotgengame" src="https://github.com/user-attachments/assets/ff434119-b1c2-483b-b5be-cf6066675fea" />
   <img width="200" height="200" alt="github" src="https://github.com/user-attachments/assets/b84d07be-834d-44ec-90bf-a241744ef3fd" />
 </p>
+
 
